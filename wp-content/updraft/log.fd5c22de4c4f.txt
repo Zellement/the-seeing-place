@@ -1,0 +1,4 @@
+0000.000 (1) Opened log file at time: Sat, 27 Jun 2020 09:34:06 +0000 on http://the-seeing-place.vm
+0000.001 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.10 WP: 5.4.2 PHP: 7.3.14 (apache2handler, Windows NT DAN-PC 10.0 build 18363 (Windows 10) AMD64) MySQL: 5.7.24 WPLANG: en_GB Server: Apache/2.4.39 (Win64) PHP/7.3.14 safe_mode: 0 max_execution_time: 900 memory_limit: 1000M (used: 30.8M | 10M) multisite: N openssl: N mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.001 (1) Free space on disk containing Updraft's temporary directory: 206033 MB
+0000.007 (1) This backup task (fd5c22de4c4f) is either complete or began over 2 days ago: ending (1593250446.4275, ) (existing jobdata keys: )

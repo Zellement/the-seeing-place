@@ -1,0 +1,375 @@
+0000.001 (0) Opened log file at time: Sat, 27 Jun 2020 09:35:10 +0000 on http://the-seeing-place.vm
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.10 WP: 5.4.2 PHP: 7.3.14 (apache2handler, Windows NT DAN-PC 10.0 build 18363 (Windows 10) AMD64) MySQL: 5.7.24 WPLANG: en_GB Server: Apache/2.4.39 (Win64) PHP/7.3.14 safe_mode: 0 max_execution_time: 900 memory_limit: 1000M (used: 30.6M | 12M) multisite: N openssl: N mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.002 (0) Free space on disk containing Updraft's temporary directory: 206031.6 MB
+0000.004 (0) Tasks: Backup files: 1 (schedule: monthly) Backup DB:  (schedule: monthly)
+0000.004 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.020 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1529366524, seconds_ago=63883986)
+0000.021 (0) Semaphore (fd, wp_options) was stuck, set lock time to 2020-06-27 09:35:10
+0000.022 (0) Semaphore (fd, wp_options) reset to 1
+0000.022 (0) Set semaphore last lock (fd) time to 2020-06-27 09:35:10
+0000.023 (0) Semaphore lock (fd) complete
+0000.026 (0) Backup run: resumption=0, nonce=f1a45fa1118e, begun at=1593250510 (0s ago), job type=backup
+0000.027 (0) Scheduling a resumption (1) after 300 seconds (1593250810) in case this run gets aborted
+0000.035 (0) Checking if we have a zip executable available
+0000.037 (0) Creation of backups of directories: beginning
+0000.044 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.809 (0) Total entities for the zip file: 509 directories, 3061 files (0 skipped as non-modified), 48.3 MB
+0001.644 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.902 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.440 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0002.752 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.8 MB, 343 (343) files added so far); re-opening (prior size: 0 KB)
+0003.731 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 400 files added (on-disk size: 2254.4 KB)
+0004.367 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 500 files added (on-disk size: 2254.4 KB)
+0005.155 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 600 files added (on-disk size: 2254.4 KB)
+0005.755 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 336 (679) files added so far); re-opening (prior size: 2254.4 KB)
+0006.104 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 700 files added (on-disk size: 2783.4 KB)
+0007.093 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 800 files added (on-disk size: 2783.4 KB)
+0008.348 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 900 files added (on-disk size: 2783.4 KB)
+0008.583 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 1000 files added (on-disk size: 2783.4 KB)
+0008.758 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.5 MB, 352 (1031) files added so far); re-opening (prior size: 2783.4 KB)
+0009.211 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 1100 files added (on-disk size: 5185 KB)
+0009.935 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 1200 files added (on-disk size: 5185 KB)
+0010.544 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 1300 files added (on-disk size: 5185 KB)
+0011.715 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 1400 files added (on-disk size: 5185 KB)
+0011.750 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (16.9 MB, 377 (1408) files added so far); re-opening (prior size: 5185 KB)
+0013.616 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 1500 files added (on-disk size: 10068.9 KB)
+0014.237 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 1600 files added (on-disk size: 10068.9 KB)
+0014.880 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 1700 files added (on-disk size: 10068.9 KB)
+0015.576 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 1800 files added (on-disk size: 10068.9 KB)
+0015.756 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 MB, 413 (1821) files added so far); re-opening (prior size: 10068.9 KB)
+0016.551 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 1900 files added (on-disk size: 10670.8 KB)
+0017.242 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 2000 files added (on-disk size: 10670.8 KB)
+0018.144 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 2100 files added (on-disk size: 10670.8 KB)
+0018.752 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.9 MB, 379 (2200) files added so far); re-opening (prior size: 10670.8 KB)
+0019.016 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 2200 files added (on-disk size: 11283 KB)
+0019.971 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 2300 files added (on-disk size: 11283 KB)
+0020.608 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 2400 files added (on-disk size: 11283 KB)
+0021.276 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 2500 files added (on-disk size: 11283 KB)
+0021.751 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.3 MB, 369 (2569) files added so far); re-opening (prior size: 11283 KB)
+0022.606 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 2600 files added (on-disk size: 11761.9 KB)
+0022.952 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 2700 files added (on-disk size: 11761.9 KB)
+0023.595 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 2800 files added (on-disk size: 11761.9 KB)
+0024.700 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 2900 files added (on-disk size: 11761.9 KB)
+0024.756 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (9.3 MB, 341 (2910) files added so far); re-opening (prior size: 11761.9 KB)
+0026.620 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip.tmp: 3000 files added (on-disk size: 14975 KB)
+0027.516 (0) Created plugins zip (0) - 15696 KB in 27.5 s (571.4 KB/s) (sha1: cd6e61b3387037e70257720e5f2ba0e9c9c678ae, sha256: a9ae6b5804a80bf771f89b94ac3f1ea5b966d459044a3195efb46f0cfcd75b46)
+0027.518 (0) Beginning creation of dump of themes (split every: 400 MB)
+0027.600 (0) Total entities for the zip file: 63 directories, 292 files (0 skipped as non-modified), 5.1 MB
+0028.653 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0029.386 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0029.766 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.5 MB, 228 (228) files added so far); re-opening (prior size: 0 KB)
+0030.869 (0) Created themes zip (0) - 3156.7 KB in 3.3 s (942.5 KB/s) (sha1: e1471acb7943cdeb50119fde7fb85ca0a02a0175, sha256: cec3d8c512702e4d92b999262de515500c6536f3fd696dd8ac889b39fe26b78e)
+0030.871 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0030.872 (0) Looking for candidates to back up in: C:\Users\dan\Websites\the-seeing-place.vm/wp-content/uploads
+0030.873 (0) finding files: 2015: adding to list (1)
+0030.873 (0) finding files: 2016: adding to list (2)
+0030.874 (0) finding files: 2017: adding to list (3)
+0030.874 (0) finding files: 2018: adding to list (4)
+0030.875 (0) finding files: 2020: adding to list (5)
+0030.875 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0032.123 (0) Total entities for the zip file: 44 directories, 5469 files (0 skipped as non-modified), 1137.9 MB
+0032.494 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (28.7 MB, 5469 files batched, 66 (66) added so far); re-opening (prior size: 0 KB)
+0032.587 (0) A useful amount of data was added after this amount of zip processing: 1.8 s (normalised: 1.6 s, rate: 16001.1 KB/s)
+0032.588 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.836522102356, normalised_time=1.5998874440273, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=98310915)
+0032.758 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads.zip.tmp: 100 files added (on-disk size: 29400 KB)
+0033.377 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads.zip.tmp: 200 files added (on-disk size: 29400 KB)
+0033.788 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads.zip.tmp: 300 files added (on-disk size: 29400 KB)
+0033.982 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 93.8 MB added on this batch (93.8 MB, 5469 files batched, 288 (354) added so far); re-opening (prior size: 29400 KB)
+0034.302 (0) A useful amount of data was added after this amount of zip processing: 2.6 s (normalised: 2.6 s, rate: 37635.2 KB/s)
+0034.303 (0) Performance is good - will increase the amount of data we attempt to batch (time=2.5517680644989, normalised_time=2.5509799173841, max_time=-1, data points known=0, old_max_bytes=98310915, new_max_bytes=209715200)
+0034.486 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads.zip.tmp: 400 files added (on-disk size: 125477.1 KB)
+0035.298 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads.zip.tmp: 500 files added (on-disk size: 125477.1 KB)
+0035.670 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads.zip.tmp: 600 files added (on-disk size: 125477.1 KB)
+0036.038 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads.zip.tmp: 700 files added (on-disk size: 125477.1 KB)
+0036.328 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 200 MB added on this batch (200.2 MB, 5469 files batched, 434 (788) added so far); re-opening (prior size: 125477.1 KB)
+0037.607 (0) A useful amount of data was added after this amount of zip processing: 3.9 s (normalised: 3.9 s, rate: 53166.6 KB/s)
+0037.609 (0) Performance is good - but we will not increase the amount of data we batch, as we are already at the present limit (time=3.8568120002747, normalised_time=3.8520448846003, max_time=-1, data points known=0, max_bytes=209715200)
+0038.281 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads.zip.tmp: 800 files added (on-disk size: 330593.3 KB)
+0038.658 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads.zip.tmp: 900 files added (on-disk size: 330593.3 KB)
+0038.919 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): possibly approaching split limit (70.3 MB, 177 (965) files added so far); last ratio: 1; re-opening (prior size: 330593.3 KB)
+0040.120 (0) Zip size is at/near split limit (393.2 MB / 400 MB) - bumping index (from: 0)
+0043.466 (0) Created uploads zip (0) - 402642.5 KB in 9.2 s (43557.4 KB/s) (checksums: sha1: 00727c07644a4ef29e79fa4f9d3b29ebfbc558b8, sha256: 40fbddd32e9266d7a77c4a91caab17275ecf5316986d38acfe9d02aa554b91d5)
+0043.473 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (966) files added so far); re-opening (prior size: 0 KB)
+0043.686 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads2.zip.tmp: 1000 files added (on-disk size: 12.9 KB)
+0044.105 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads2.zip.tmp: 1100 files added (on-disk size: 12.9 KB)
+0044.503 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads2.zip.tmp: 1200 files added (on-disk size: 12.9 KB)
+0044.901 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads2.zip.tmp: 1300 files added (on-disk size: 12.9 KB)
+0045.307 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads2.zip.tmp: 1400 files added (on-disk size: 12.9 KB)
+0045.556 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (131.9 MB, 5469 files batched, 501 (1467) added so far); re-opening (prior size: 12.9 KB)
+0046.152 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads2.zip.tmp: 1500 files added (on-disk size: 135123.7 KB)
+0046.874 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads2.zip.tmp: 1600 files added (on-disk size: 135123.7 KB)
+0047.306 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads2.zip.tmp: 1700 files added (on-disk size: 135123.7 KB)
+0047.702 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads2.zip.tmp: 1800 files added (on-disk size: 135123.7 KB)
+0048.114 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads2.zip.tmp: 1900 files added (on-disk size: 135123.7 KB)
+0048.372 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (115.4 MB, 5469 files batched, 501 (1968) added so far); re-opening (prior size: 135123.7 KB)
+0049.356 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads2.zip.tmp: 2000 files added (on-disk size: 253324.5 KB)
+0049.807 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads2.zip.tmp: 2100 files added (on-disk size: 253324.5 KB)
+0050.214 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads2.zip.tmp: 2200 files added (on-disk size: 253324.5 KB)
+0050.644 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads2.zip.tmp: 2300 files added (on-disk size: 253324.5 KB)
+0051.024 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads2.zip.tmp: 2400 files added (on-disk size: 253324.5 KB)
+0051.287 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (84.5 MB, 5469 files batched, 501 (2469) added so far); re-opening (prior size: 253324.5 KB)
+0052.140 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads2.zip.tmp: 2500 files added (on-disk size: 339963.8 KB)
+0052.530 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads2.zip.tmp: 2600 files added (on-disk size: 339963.8 KB)
+0054.031 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads2.zip.tmp: 2700 files added (on-disk size: 339963.8 KB)
+0054.422 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads2.zip.tmp: 2800 files added (on-disk size: 339963.8 KB)
+0054.757 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (50.5 MB, 406 (2875) files added so far); re-opening (prior size: 339963.8 KB)
+0056.483 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads2.zip.tmp: 2900 files added (on-disk size: 391731.5 KB)
+0056.857 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): possibly approaching split limit (16.3 MB, 114 (2989) files added so far); last ratio: 1; re-opening (prior size: 391731.5 KB)
+0058.668 (0) Zip size is at/near split limit (398.8 MB / 400 MB) - bumping index (from: 1)
+0062.067 (0) Created uploads zip (1) - 408404.1 KB in 15.2 s (26864.9 KB/s) (checksums: sha1: b2dd11ebc32b34368bd31f5089791888f94826a1, sha256: 832f96703a6cf9bbb469d277c146fa3e796432f1b01f22a7d701e079739f880c)
+0062.077 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 1 (2990) files added so far); re-opening (prior size: 0 KB)
+0062.138 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip.tmp: 3000 files added (on-disk size: 359.2 KB)
+0062.690 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip.tmp: 3100 files added (on-disk size: 359.2 KB)
+0063.079 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip.tmp: 3200 files added (on-disk size: 359.2 KB)
+0063.524 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip.tmp: 3300 files added (on-disk size: 359.2 KB)
+0063.937 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip.tmp: 3400 files added (on-disk size: 359.2 KB)
+0064.314 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (77.2 MB, 5469 files batched, 501 (3491) added so far); re-opening (prior size: 359.2 KB)
+0064.761 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip.tmp: 3500 files added (on-disk size: 79437.2 KB)
+0065.207 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip.tmp: 3600 files added (on-disk size: 79437.2 KB)
+0065.636 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip.tmp: 3700 files added (on-disk size: 79437.2 KB)
+0066.038 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip.tmp: 3800 files added (on-disk size: 79437.2 KB)
+0066.457 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip.tmp: 3900 files added (on-disk size: 79437.2 KB)
+0066.750 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (54.8 MB, 481 (3972) files added so far); re-opening (prior size: 79437.2 KB)
+0067.201 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip.tmp: 4000 files added (on-disk size: 135590.8 KB)
+0067.915 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip.tmp: 4100 files added (on-disk size: 135590.8 KB)
+0068.298 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip.tmp: 4200 files added (on-disk size: 135590.8 KB)
+0068.714 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip.tmp: 4300 files added (on-disk size: 135590.8 KB)
+0069.143 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip.tmp: 4400 files added (on-disk size: 135590.8 KB)
+0069.466 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (83.5 MB, 5469 files batched, 501 (4473) added so far); re-opening (prior size: 135590.8 KB)
+0070.116 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip.tmp: 4500 files added (on-disk size: 221227.1 KB)
+0071.023 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip.tmp: 4600 files added (on-disk size: 221227.1 KB)
+0071.446 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip.tmp: 4700 files added (on-disk size: 221227.1 KB)
+0071.860 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip.tmp: 4800 files added (on-disk size: 221227.1 KB)
+0072.243 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip.tmp: 4900 files added (on-disk size: 221227.1 KB)
+0072.541 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (67.8 MB, 5469 files batched, 501 (4974) added so far); re-opening (prior size: 221227.1 KB)
+0073.436 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip.tmp: 5000 files added (on-disk size: 290798.6 KB)
+0074.688 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip.tmp: 5100 files added (on-disk size: 290798.6 KB)
+0075.129 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip.tmp: 5200 files added (on-disk size: 290798.6 KB)
+0075.529 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip.tmp: 5300 files added (on-disk size: 290798.6 KB)
+0075.753 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (46.6 MB, 380 (5354) files added so far); re-opening (prior size: 290798.6 KB)
+0076.749 (0) Zip: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip.tmp: 5400 files added (on-disk size: 338549.1 KB)
+0081.499 (0) Created uploads zip (2) - 355012.7 KB in 19.4 s (18270.3 KB/s) (sha1: 68fe49d4dd2d6406fdd2ae4232ccae45d4a39e7f, sha256: 90eb009f691945b84425f489aabe8cfa3dd310599625022754f516a175c9d1fb)
+0081.501 (0) Beginning backup of other directories found in the content directory (index: 0)
+0081.502 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0081.502 (0) Looking for candidates to back up in: C:\Users\dan\Websites\the-seeing-place.vm/wp-content
+0081.502 (0) finding files: index.php: adding to list (1)
+0081.503 (0) finding files: languages: adding to list (2)
+0081.503 (0) finding files: plugins: skipping: this is the plugins directory
+0081.503 (0) finding files: themes: skipping: this is the themes directory
+0081.504 (0) finding files: updraft: skipping: this is the updraft directory
+0081.504 (0) finding files: upgrade: skipping: excluded by options
+0081.504 (0) finding files: uploads: skipping: this is the uploads directory
+0081.513 (0) Total entities for the zip file: 1 directories, 24 files (0 skipped as non-modified), 2.1 MB
+0081.711 (0) Created others zip (0) - 504.4 KB in 0.2 s (2471.2 KB/s) (sha1: 5cc1280c87fa97b141321b3e5ea7b436d4111d04, sha256: 06b4a9bb35600a66c5e7c58ff82aa3fc393e0fb86e30ba9a8dc78718fdfcd207)
+0081.714 (0) Saving backup status to database (elements: 10)
+0081.715 (0) Beginning creation of database dump (WordPress DB)
+0081.730 (0) Table wp_options: Total expected rows (approximate): 249
+0081.758 (0) Table wp_options: Total rows added: 245 in 0.03 seconds
+0081.764 (0) Table wp_options: finishing file (backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_options.table.gz - 145.6 KB)
+0081.768 (0) Table wp_users: Total expected rows (approximate): 2
+0081.769 (0) Table wp_users: Total rows added: 2 in 0.00 seconds
+0081.774 (0) Table wp_users: finishing file (backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_users.table.gz - 0.6 KB)
+0081.779 (0) Table wp_usermeta: Total expected rows (approximate): 57
+0081.780 (0) Table wp_usermeta: Total rows added: 57 in 0.00 seconds
+0081.785 (0) Table wp_usermeta: finishing file (backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_usermeta.table.gz - 2.5 KB)
+0081.789 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0081.790 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0081.796 (0) Table wp_commentmeta: finishing file (backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0081.799 (0) Table wp_comments: Total expected rows (approximate): 0
+0081.801 (0) Table wp_comments: Total rows added: 0 in 0.00 seconds
+0081.805 (0) Table wp_comments: finishing file (backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_comments.table.gz - 0.5 KB)
+0081.810 (0) Table wp_links: Total expected rows (approximate): 0
+0081.812 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0081.816 (0) Table wp_links: finishing file (backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_links.table.gz - 0.4 KB)
+0081.820 (0) Table wp_postmeta: Total expected rows (approximate): 7087
+0081.899 (0) Table wp_postmeta: Total rows added: 7087 in 0.08 seconds
+0081.909 (0) Table wp_postmeta: finishing file (backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_postmeta.table.gz - 211.7 KB)
+0081.913 (0) Table wp_posts: Total expected rows (approximate): 716
+0081.934 (0) Table wp_posts: Total rows added: 716 in 0.02 seconds
+0081.939 (0) Table wp_posts: finishing file (backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_posts.table.gz - 29.6 KB)
+0081.944 (0) Table wp_term_relationships: Total expected rows (approximate): 58
+0081.946 (0) Table wp_term_relationships: Total rows added: 58 in 0.00 seconds
+0081.951 (0) Table wp_term_relationships: finishing file (backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_term_relationships.table.gz - 0.6 KB)
+0081.955 (0) Table wp_term_taxonomy: Total expected rows (approximate): 10
+0081.957 (0) Table wp_term_taxonomy: Total rows added: 10 in 0.00 seconds
+0081.963 (0) Table wp_term_taxonomy: finishing file (backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0081.967 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0081.968 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0081.973 (0) Table wp_termmeta: finishing file (backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_termmeta.table.gz - 0.4 KB)
+0081.978 (0) Table wp_terms: Total expected rows (approximate): 10
+0081.980 (0) Table wp_terms: Total rows added: 10 in 0.00 seconds
+0081.985 (0) Table wp_terms: finishing file (backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_terms.table.gz - 0.5 KB)
+0081.991 (0) Table wp_yoast_seo_links: Total expected rows (approximate): 0
+0081.992 (0) Table wp_yoast_seo_links: Total rows added: 0 in 0.00 seconds
+0081.998 (0) Table wp_yoast_seo_links: finishing file (backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_yoast_seo_links.table.gz - 0.4 KB)
+0082.003 (0) Table wp_yoast_seo_meta: Total expected rows (approximate): 25
+0082.004 (0) Table wp_yoast_seo_meta: Total rows added: 25 in 0.00 seconds
+0082.011 (0) Table wp_yoast_seo_meta: finishing file (backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_yoast_seo_meta.table.gz - 0.4 KB)
+0082.021 (0) Table wp_iwp_backup_status: Total expected rows (approximate): 0
+0082.022 (0) Table wp_iwp_backup_status: Total rows added: 0 in 0.00 seconds
+0082.028 (0) Table wp_iwp_backup_status: finishing file (backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_iwp_backup_status.table.gz - 0.4 KB)
+0082.037 (0) Table wp_urls: Total expected rows (approximate): 0
+0082.039 (0) Table wp_urls: Total rows added: 0 in 0.00 seconds
+0082.046 (0) Table wp_urls: finishing file (backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_urls.table.gz - 0.5 KB)
+0082.050 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_options.table.gz (1/16): adding to final database dump
+0082.074 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_users.table.gz (2/16): adding to final database dump
+0082.075 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_usermeta.table.gz (3/16): adding to final database dump
+0082.076 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_commentmeta.table.gz (4/16): adding to final database dump
+0082.077 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_comments.table.gz (5/16): adding to final database dump
+0082.077 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_links.table.gz (6/16): adding to final database dump
+0082.078 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_postmeta.table.gz (7/16): adding to final database dump
+0082.119 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_posts.table.gz (8/16): adding to final database dump
+0082.126 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_term_relationships.table.gz (9/16): adding to final database dump
+0082.127 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_term_taxonomy.table.gz (10/16): adding to final database dump
+0082.127 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_termmeta.table.gz (11/16): adding to final database dump
+0082.128 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_terms.table.gz (12/16): adding to final database dump
+0082.128 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_yoast_seo_links.table.gz (13/16): adding to final database dump
+0082.129 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_yoast_seo_meta.table.gz (14/16): adding to final database dump
+0082.129 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_iwp_backup_status.table.gz (15/16): adding to final database dump
+0082.130 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db-table-wp_urls.table.gz (16/16): adding to final database dump
+0082.130 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db.gz: finished writing out complete database file (376 KB)
+0082.144 (0) Total database tables backed up: 16 (backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db.gz, size: 401158, sha256)
+0082.148 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0082.148 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0082.149 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0082.149 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads2.zip: uploads: This file has not yet been successfully uploaded: will queue
+0082.149 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip: uploads: This file has not yet been successfully uploaded: will queue
+0082.150 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-others.zip: others: This file has not yet been successfully uploaded: will queue
+0082.150 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db.gz: db: This file has not yet been successfully uploaded: will queue
+0082.151 (0) Saving backup history. Total backup size: 1.1 GB
+0082.152 (0) Requesting upload of the files that have not yet been successfully uploaded (7)
+0082.154 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0082.154 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-5328700d62bc82db25ab7c319a59e3fd)
+0084.486 (0) Google Drive quota usage: used=7619.8 MB, total=15360 MB, available=7740.2 MB
+0084.488 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip: Attempting to upload to Google Drive (into folder id: 1Ttb97mrlhYVyXXp13Z1_xE83ww7iFsjN)
+0144.786 (0) ERROR: Google Drive upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\Users\dan\Websites\the-seeing-place.vm\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0144.787 (0) An error condition has occurred for the first time during this job
+0148.470 (0) Google Drive quota usage: used=7619.8 MB, total=15360 MB, available=7740.2 MB
+0148.470 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-themes.zip: Attempting to upload to Google Drive (into folder id: 1Ttb97mrlhYVyXXp13Z1_xE83ww7iFsjN)
+0208.736 (0) ERROR: Google Drive upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\Users\dan\Websites\the-seeing-place.vm\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0209.133 (0) Google Drive quota usage: used=7619.8 MB, total=15360 MB, available=7740.2 MB
+0209.135 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads.zip: Attempting to upload to Google Drive (into folder id: 1Ttb97mrlhYVyXXp13Z1_xE83ww7iFsjN)
+0269.432 (0) ERROR: Google Drive upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\Users\dan\Websites\the-seeing-place.vm\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0269.809 (0) Google Drive quota usage: used=7619.8 MB, total=15360 MB, available=7740.2 MB
+0269.812 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads2.zip: Attempting to upload to Google Drive (into folder id: 1Ttb97mrlhYVyXXp13Z1_xE83ww7iFsjN)
+0307.974 (1) Opened log file at time: Sat, 27 Jun 2020 09:40:18 +0000 on http://the-seeing-place.vm
+0307.975 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.25 WP: 5.4.2 PHP: 7.3.14 (apache2handler, Windows NT DAN-PC 10.0 build 18363 (Windows 10) AMD64) MySQL: 5.7.24 WPLANG: en_GB Server: Apache/2.4.39 (Win64) PHP/7.3.14 safe_mode: 0 max_execution_time: 900 memory_limit: 1000M (used: 34.1M | 16M) multisite: N openssl: N mcrypt: N LANG:  ZipArchive::addFile: Y
+0307.976 (1) Free space on disk containing Updraft's temporary directory: 204622.6 MB
+0307.977 (1) Backup run: resumption=1, nonce=f1a45fa1118e, file_nonce=f1a45fa1118e begun at=1593250510 (308s ago), job type=backup, previous check-in=82s
+0307.978 (1) Scheduling a resumption (2) after 300 seconds (1593251118) in case this run gets aborted
+0307.988 (1) Checking if we have a zip executable available
+0307.988 (1) Creation of backups of directories: already finished
+0307.990 (1) Saving backup status to database (elements: 10)
+0307.995 (1) Database dump (WordPress DB): Creation was completed already
+0307.998 (1) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0307.999 (1) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0307.999 (1) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0308.000 (1) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads2.zip: uploads: This file has not yet been successfully uploaded: will queue
+0308.000 (1) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip: uploads: This file has not yet been successfully uploaded: will queue
+0308.000 (1) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-others.zip: others: This file has not yet been successfully uploaded: will queue
+0308.001 (1) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db.gz: db: This file has not yet been successfully uploaded: will queue
+0308.001 (1) Saving backup history. Total backup size: 1.1 GB
+0308.003 (1) Requesting upload of the files that have not yet been successfully uploaded (7)
+0308.003 (1) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0308.004 (1) Beginning dispatch of backup to remote (googledrive) (instance identifier s-5328700d62bc82db25ab7c319a59e3fd)
+0309.096 (1) Google Drive: quota usage: used=7619.8 MB, total=15360 MB, available=7740.2 MB
+0309.097 (1) Google Drive: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-plugins.zip: Attempting to upload to Google Drive (into folder id: 1Ttb97mrlhYVyXXp13Z1_xE83ww7iFsjN)
+0330.098 (0) ERROR: Google Drive upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\Users\dan\Websites\the-seeing-place.vm\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0330.457 (0) Google Drive quota usage: used=7619.8 MB, total=15360 MB, available=7740.2 MB
+0330.457 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip: Attempting to upload to Google Drive (into folder id: 1Ttb97mrlhYVyXXp13Z1_xE83ww7iFsjN)
+0369.382 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\Users\dan\Websites\the-seeing-place.vm\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0369.383 (1) An error condition has occurred for the first time during this job
+0369.702 (1) Google Drive: quota usage: used=7619.8 MB, total=15360 MB, available=7740.2 MB
+0369.703 (1) Google Drive: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-themes.zip: Attempting to upload to Google Drive (into folder id: 1Ttb97mrlhYVyXXp13Z1_xE83ww7iFsjN)
+0390.778 (0) ERROR: Google Drive upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\Users\dan\Websites\the-seeing-place.vm\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0391.109 (0) Google Drive quota usage: used=7619.8 MB, total=15360 MB, available=7740.2 MB
+0391.109 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-others.zip: Attempting to upload to Google Drive (into folder id: 1Ttb97mrlhYVyXXp13Z1_xE83ww7iFsjN)
+0393.143 (0) The time we have been running (393.1) is approaching the resumption interval (300) - increasing resumption interval to 424
+0393.144 (0) Googledrive chunked upload: 100 % uploaded
+0393.145 (0) OK: Archive backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-others.zip uploaded to Google Drive in 2.04 seconds
+0393.146 (0) Recording as successfully uploaded: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-others.zip (990dbc4a45d5f684bd8264f998dbf644)
+0393.149 (0) Deleting local file: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-others.zip: OK
+0393.472 (0) Google Drive quota usage: used=7620.3 MB, total=15360 MB, available=7739.7 MB
+0393.472 (0) backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db.gz: Attempting to upload to Google Drive (into folder id: 1Ttb97mrlhYVyXXp13Z1_xE83ww7iFsjN)
+0395.055 (0) The time we have been running (395.1) is approaching the resumption interval (424) - increasing resumption interval to 426
+0395.057 (0) Googledrive chunked upload: 100 % uploaded
+0395.058 (0) OK: Archive backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db.gz uploaded to Google Drive in 1.59 seconds
+0395.059 (0) Recording as successfully uploaded: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db.gz (5bcb8c83cc1fcfb61cfbab6102ef446f)
+0395.061 (0) Deleting local file: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-db.gz: OK
+0395.063 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0395.064 (0) Number of backup sets in history: 4; groups (db): 1
+0395.064 (0) Examining (for databases) backup set with group_id=0, nonce=f1a45fa1118e, datestamp=1593250510 (Jun 27 2020 09:35:10)
+0395.064 (0) This backup set is the backup set just made, so will not be deleted.
+0395.064 (0) Examining (for databases) backup set with group_id=0, nonce=fd5c22de4c4f, datestamp=1529366524 (Jun 19 2018 00:02:04)
+0395.064 (0) Examining (for databases) backup set with group_id=0, nonce=4ec8c86117b5, datestamp=1526773294 (May 19 2018 23:41:34)
+0395.064 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0395.065 (0) Examining (for databases) backup set with group_id=0, nonce=9a46352ae825, datestamp=1524179207 (Apr 19 2018 23:06:47)
+0395.065 (0) 1524179207: db: this set includes a database (backup_2018-04-20-0006_The_Seeing_Place_9a46352ae825-db.gz); db count is now 2
+0395.065 (0) 1524179207: db: over retain limit (2); will delete this database
+0395.065 (0) Delete file: backup_2018-04-20-0006_The_Seeing_Place_9a46352ae825-db.gz, service=googledrive
+0395.802 (0) backup_2018-04-20-0006_The_Seeing_Place_9a46352ae825-db.gz: Deletion failed: file was not found
+0395.803 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0395.803 (0) Number of backup sets in history: 4; groups (files): 1
+0395.804 (0) Examining (for files) backup set with nonce=f1a45fa1118e, datestamp=1593250510 (Jun 27 2020 09:35:10)
+0395.804 (0) This backup set is the backup set just made, so will not be deleted.
+0395.804 (0) This backup set is the backup set just made, so will not be deleted.
+0395.804 (0) This backup set is the backup set just made, so will not be deleted.
+0395.804 (0) This backup set is the backup set just made, so will not be deleted.
+0395.804 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0395.805 (0) Examining (for files) backup set with nonce=fd5c22de4c4f, datestamp=1529366524 (Jun 19 2018 00:02:04)
+0395.805 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0395.805 (0) Examining (for files) backup set with nonce=4ec8c86117b5, datestamp=1526773294 (May 19 2018 23:41:34)
+0395.805 (0) plugins: over retain limit (2); will delete this file entity
+0395.805 (0) themes: over retain limit (2); will delete this file entity
+0395.805 (0) uploads: over retain limit (2); will delete this file entity
+0395.805 (0) others: over retain limit (2); will delete this file entity
+0395.805 (0) Delete file: backup_2018-05-20-0041_The_Seeing_Place_4ec8c86117b5-plugins.zip, service=googledrive
+0395.806 (0) Delete file: backup_2018-05-20-0041_The_Seeing_Place_4ec8c86117b5-themes.zip, service=googledrive
+0395.806 (0) Delete file: backup_2018-05-20-0041_The_Seeing_Place_4ec8c86117b5-uploads.zip, service=googledrive
+0395.806 (0) Delete file: backup_2018-05-20-0041_The_Seeing_Place_4ec8c86117b5-uploads2.zip, service=googledrive
+0395.807 (0) Delete file: backup_2018-05-20-0041_The_Seeing_Place_4ec8c86117b5-uploads3.zip, service=googledrive
+0395.807 (0) Delete file: backup_2018-05-20-0041_The_Seeing_Place_4ec8c86117b5-others.zip, service=googledrive
+0396.413 (0) backup_2018-05-20-0041_The_Seeing_Place_4ec8c86117b5-plugins.zip: Deletion failed: file was not found
+0396.413 (0) backup_2018-05-20-0041_The_Seeing_Place_4ec8c86117b5-themes.zip: Deletion failed: file was not found
+0396.414 (0) backup_2018-05-20-0041_The_Seeing_Place_4ec8c86117b5-uploads.zip: Deletion failed: file was not found
+0396.414 (0) backup_2018-05-20-0041_The_Seeing_Place_4ec8c86117b5-uploads2.zip: Deletion failed: file was not found
+0396.415 (0) backup_2018-05-20-0041_The_Seeing_Place_4ec8c86117b5-uploads3.zip: Deletion failed: file was not found
+0396.415 (0) backup_2018-05-20-0041_The_Seeing_Place_4ec8c86117b5-others.zip: Deletion failed: file was not found
+0396.417 (0) The time we have been running (396.4) is approaching the resumption interval (426) - increasing resumption interval to 427
+0396.418 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0396.418 (0) Examining (for files) backup set with nonce=9a46352ae825, datestamp=1524179207 (Apr 19 2018 23:06:47)
+0396.418 (0) plugins: over retain limit (2); will delete this file entity
+0396.418 (0) themes: over retain limit (2); will delete this file entity
+0396.418 (0) uploads: over retain limit (2); will delete this file entity
+0396.418 (0) others: over retain limit (2); will delete this file entity
+0396.419 (0) Delete file: backup_2018-04-20-0006_The_Seeing_Place_9a46352ae825-plugins.zip, service=googledrive
+0396.419 (0) Delete file: backup_2018-04-20-0006_The_Seeing_Place_9a46352ae825-themes.zip, service=googledrive
+0396.419 (0) Delete file: backup_2018-04-20-0006_The_Seeing_Place_9a46352ae825-uploads.zip, service=googledrive
+0396.420 (0) Delete file: backup_2018-04-20-0006_The_Seeing_Place_9a46352ae825-uploads2.zip, service=googledrive
+0396.420 (0) Delete file: backup_2018-04-20-0006_The_Seeing_Place_9a46352ae825-uploads3.zip, service=googledrive
+0396.421 (0) Delete file: backup_2018-04-20-0006_The_Seeing_Place_9a46352ae825-others.zip, service=googledrive
+0397.023 (0) backup_2018-04-20-0006_The_Seeing_Place_9a46352ae825-plugins.zip: Deletion failed: file was not found
+0397.024 (0) backup_2018-04-20-0006_The_Seeing_Place_9a46352ae825-themes.zip: Deletion failed: file was not found
+0397.024 (0) backup_2018-04-20-0006_The_Seeing_Place_9a46352ae825-uploads.zip: Deletion failed: file was not found
+0397.024 (0) backup_2018-04-20-0006_The_Seeing_Place_9a46352ae825-uploads2.zip: Deletion failed: file was not found
+0397.025 (0) backup_2018-04-20-0006_The_Seeing_Place_9a46352ae825-uploads3.zip: Deletion failed: file was not found
+0397.025 (0) backup_2018-04-20-0006_The_Seeing_Place_9a46352ae825-others.zip: Deletion failed: file was not found
+0397.027 (0) The time we have been running (397) is approaching the resumption interval (427) - increasing resumption interval to 428
+0397.028 (0) This backup set is now empty; will remove from history
+0397.029 (0) Corresponding log file (log.9a46352ae825.txt) not found - must have already been deleted
+0397.029 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0397.031 (0) Resume backup (f1a45fa1118e, 0): finish run
+0397.032 (0) Decremented the semaphore (fd) by 1
+0397.032 (0) Semaphore (fd) unlocked
+0397.033 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0397.034 (0) Rescheduling resumption 1: moving to 120 seconds from now (1593251027)
+0397.035 (0) The backup has not finished; a resumption is scheduled
+0429.972 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\Users\dan\Websites\the-seeing-place.vm\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0430.354 (1) Google Drive: quota usage: used=7620.6 MB, total=15360 MB, available=7739.4 MB
+0430.356 (1) Google Drive: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads.zip: Attempting to upload to Google Drive (into folder id: 1Ttb97mrlhYVyXXp13Z1_xE83ww7iFsjN)
+0490.680 (1) Google Drive: Upload error: Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\Users\dan\Websites\the-seeing-place.vm\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0491.013 (1) Google Drive: quota usage: used=7620.6 MB, total=15360 MB, available=7739.4 MB
+0491.014 (1) Google Drive: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads2.zip: Attempting to upload to Google Drive (into folder id: 1Ttb97mrlhYVyXXp13Z1_xE83ww7iFsjN)
+0551.324 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\Users\dan\Websites\the-seeing-place.vm\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0551.693 (1) Google Drive: quota usage: used=7620.6 MB, total=15360 MB, available=7739.4 MB
+0551.694 (1) Google Drive: backup_2020-06-27-1035_The_Seeing_Place_f1a45fa1118e-uploads3.zip: Attempting to upload to Google Drive (into folder id: 1Ttb97mrlhYVyXXp13Z1_xE83ww7iFsjN)
