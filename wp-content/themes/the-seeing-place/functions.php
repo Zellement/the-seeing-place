@@ -61,7 +61,7 @@
 		
 		// add jquery to theme
 		wp_deregister_script('jquery');
-		wp_register_script('jquery', "http://code.jquery.com/jquery-1.9.1.min.js", false, null);
+		wp_register_script('jquery', "//code.jquery.com/jquery-1.9.1.min.js", false, null);
 		wp_enqueue_script('jquery');
 		
 		/** import theme style.css **/
@@ -72,7 +72,7 @@
 		wp_enqueue_style( 'custom',  get_template_directory_uri().'/css/custom.css', '', '', 'screen' );
 		
 		wp_enqueue_style( 'fontawesome',  '//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css', '', '', 'screen' );
-		wp_enqueue_style( 'sourceserif',  'http://fonts.googleapis.com/css?family=Source+Serif+Pro:400,700', '', '', 'screen' );
+		wp_enqueue_style( 'sourceserif',  '//fonts.googleapis.com/css?family=Source+Serif+Pro:400,700', '', '', 'screen' );
 		
 		// nav
 		wp_register_script( 'modernizr.custom', get_template_directory_uri().'/js/modernizr.custom.js' );
